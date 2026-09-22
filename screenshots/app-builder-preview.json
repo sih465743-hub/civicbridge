@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CivicBridge",
+      "hasCanvas": false,
+      "bodyTextLen": 2251,
+      "bodyTextHash": "45d2968478e4dde86d4962d24e08597f61ef093591933edb4b37798f4dc5f06c",
+      "bodyTextPrefix": "C CivicBridge Report Problems WhatsApp My reports Officer Univer",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CivicBridge",
+      "hasCanvas": false,
+      "bodyTextLen": 2184,
+      "bodyTextHash": "19b0573220143e68000376342ab97347bef3c494163558d29ca940bc5b5daea2",
+      "bodyTextPrefix": "C CivicBridge SIH 26043 · SMART EDUCATION · JHARKHAND Tell us wh",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

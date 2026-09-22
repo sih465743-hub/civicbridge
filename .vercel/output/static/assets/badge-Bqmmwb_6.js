@@ -1,0 +1,1 @@
+import{h as e,r as t}from"./shell-LbWGqrnH.js";var n=e();function r({className:e,...r}){return(0,n.jsx)(`span`,{className:t(`inline-flex items-center rounded-full border border-border bg-bg px-2.5 py-0.5 text-xs font-medium text-muted`,e),...r})}export{r as t};
